@@ -1,6 +1,9 @@
-markdown: rdiscount
+markdown: kramdown
 permalink: /:year/:month/:title/
-url: http://jeff-lee.name/en
+github: westerly-lzh
+url: http://westerly-lzh.github.io/en
 author: Jeff Lee
-pygments: true
-
+name: Jeff Lee
+email: westerly.lzh@gmail.com
+highlighter: pygments
+safe: true
