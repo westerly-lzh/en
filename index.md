@@ -1,5 +1,5 @@
 ---
-title: Thinking makes world simpler
+title: Action makes life better
 layout: page
 ---
 
