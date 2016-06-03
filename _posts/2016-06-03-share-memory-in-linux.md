@@ -13,13 +13,13 @@ After a lot of problems search work, i notice that the instance configuration ch
 
 Here i record this problem and the solution. in the solution, the main work is to set the right value for the three parameters: shmmax,shmall and shmmni(be carefull that not shmmin)
 
-- == shmmax==
+- **shmmax**
 	shmmax gives the value of the max value of one share memory segment. this value is counted by byte. So if I want to set the shmmax to be 8G, the value of shmmax will be 8*1024*1024*1024 = 8589934592
     
-- == shmall== 
+- **shmall** 
 	shmall gives the total share memory segments. this value is counted by page. In linux one page size is usually 4Kb. So the value of shmall will be shmmax/page_size = 8589934592/4096 = 2097152.
 
-- == shmmni== 
+- **shmmni** 
 	shmmni can be kept to be the default value. this is used to control the count of segements in share memory.
 
 After these parameters are setted and take effect,  then restart the oracel system and sap system, the sap can be connected.
