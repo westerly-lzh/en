@@ -8,7 +8,7 @@ tags:
 
 ----
 
-####Benefits provided by SAP NetWeaver:
+#### Benefits provided by SAP NetWeaver:
 
 * SOA oriented, reduce IT complexity and increase business flexibility.
 
