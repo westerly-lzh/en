@@ -3,8 +3,9 @@ layout: post
 title: SAP NetWeaver - 1.1 Key Capbilities of SAP NetWeaver
 categories:
 - SAP
-  tags:
+tags:
 - NetWeaver
+
 ----
 
 ####Benefits provided by SAP NetWeaver:
