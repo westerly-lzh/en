@@ -1,13 +1,10 @@
 ----
-
 layout: post
 title: SAP NetWeaver - 1.2 Architecture of an SAP System, AS ABAP and AS Java
 categories:
-
 - SAP
   tags:
 - NetWeaver
-
 ------
 
 #### SAP NetWeaver Provides runtime environments for:

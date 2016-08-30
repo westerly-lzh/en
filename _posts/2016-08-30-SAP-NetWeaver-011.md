@@ -5,7 +5,6 @@ categories:
 - SAP
   tags:
 - NetWeaver
-
 ----
 
 ####Benefits provided by SAP NetWeaver:

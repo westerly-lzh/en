@@ -5,5 +5,5 @@ url: http://westerly-lzh.github.io/en
 author: Jeff Lee
 name: Jeff Lee
 email: westerly.lzh@gmail.com
-highlighter: pygments
+highlighter: Rouge
 safe: true
